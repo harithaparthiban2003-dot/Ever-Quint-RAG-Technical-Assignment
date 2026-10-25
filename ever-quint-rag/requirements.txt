@@ -1,0 +1,7 @@
+streamlit
+datasets
+rank-bm25
+sentence-transformers
+transformers
+torch
+rouge-score
